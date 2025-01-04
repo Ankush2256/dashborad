@@ -1,2 +1,3 @@
 # dashborad
-this is my first git repositary
+this is my first git repository
+Author: Ankush chaurasiya
